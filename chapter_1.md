@@ -32,4 +32,7 @@
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h36hmro3bmj20mp0dzjts.jpg)
 ### 强化学习(Reinforcement Learning)
 ![](https://tva1.sinaimg.cn/large/e6c9d24ely1h36hrto5loj20mg05zdhk.jpg)
+
+## 总结
+这一章主要讲述了机器学习的基础，了解了现代机器学习、AI、过去的AI之间的区别和联系。并且学习了机器学习中监督学习(supervised learning)，半监督学习(sem-supervised learning)， 无监督学习(unsupervised learning)， 迁移学习(transfer learning)，强化学习(reinforcement learning)的原理以及每种方法的优缺点。  
 2022/06/13
